@@ -1,3 +1,1 @@
-"# cours-git-2"
-
-blabla
+# cours-git-2
